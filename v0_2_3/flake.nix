@@ -9,7 +9,7 @@
   
   inputs.src-XPLM-Nim-v0_2_3.flake = false;
   inputs.src-XPLM-Nim-v0_2_3.owner = "jpoirier";
-  inputs.src-XPLM-Nim-v0_2_3.ref   = "refs/tags/v0.2.3";
+  inputs.src-XPLM-Nim-v0_2_3.ref   = "v0_2_3";
   inputs.src-XPLM-Nim-v0_2_3.repo  = "XPLM-Nim";
   inputs.src-XPLM-Nim-v0_2_3.type  = "github";
   
