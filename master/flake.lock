@@ -36,10 +36,10 @@
       "inputs": {
         "flakeNimbleLib": "flakeNimbleLib",
         "nixpkgs": "nixpkgs",
-        "src-XPLM-Nim-master": "src-XPLM-Nim-master"
+        "src-xplm-master": "src-xplm-master"
       }
     },
-    "src-XPLM-Nim-master": {
+    "src-xplm-master": {
       "flake": false,
       "locked": {
         "lastModified": 1420611808,
